@@ -22,7 +22,7 @@ on:
     types: [started]
 
 env:
-  REPO_URL: https://github.com/baoziking/Leanol_openwrt_copy_20200229
+  REPO_URL: https://github.com/Lienol/openwrt
   REPO_BRANCH: dev-master
   CONFIG_FILE: .config
   DIY_SH: diy.sh
